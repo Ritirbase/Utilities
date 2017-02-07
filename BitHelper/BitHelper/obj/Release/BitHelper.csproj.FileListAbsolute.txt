@@ -1,0 +1,12 @@
+C:\Users\Cryotech\Documents\Visual Studio 2015\Projects\BitHelper\BitHelper\bin\Release\BitHelper.exe.config
+C:\Users\Cryotech\Documents\Visual Studio 2015\Projects\BitHelper\BitHelper\bin\Release\BitHelper.exe
+C:\Users\Cryotech\Documents\Visual Studio 2015\Projects\BitHelper\BitHelper\bin\Release\BitHelper.pdb
+C:\Users\Cryotech\Documents\Visual Studio 2015\Projects\BitHelper\BitHelper\obj\Release\BitHelper.csprojResolveAssemblyReference.cache
+C:\Users\Cryotech\Documents\Visual Studio 2015\Projects\BitHelper\BitHelper\obj\Release\BitHelper.exe
+C:\Users\Cryotech\Documents\Visual Studio 2015\Projects\BitHelper\BitHelper\obj\Release\BitHelper.pdb
+C:\Users\Cryotech\OneDrive\BitHelper\BitHelper\bin\Release\BitHelper.exe.config
+C:\Users\Cryotech\OneDrive\BitHelper\BitHelper\bin\Release\BitHelper.exe
+C:\Users\Cryotech\OneDrive\BitHelper\BitHelper\bin\Release\BitHelper.pdb
+C:\Users\Cryotech\OneDrive\BitHelper\BitHelper\obj\Release\BitHelper.csprojResolveAssemblyReference.cache
+C:\Users\Cryotech\OneDrive\BitHelper\BitHelper\obj\Release\BitHelper.exe
+C:\Users\Cryotech\OneDrive\BitHelper\BitHelper\obj\Release\BitHelper.pdb
